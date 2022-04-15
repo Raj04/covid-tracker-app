@@ -3,7 +3,7 @@ Corona Virus is, unfortunately, spreading through the entire world. What can we,
 
 ## The applications uses 
 [React JS](https://reactjs.org/docs/create-a-new-react-app.html), [Material UI](https://mui.com/material-ui/getting-started/installation/), [Charts.js](https://www.chartjs.org/), React Hooks, API data fetching]
----
+
 ## Website Link 
 
 
